@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --black-bg: rgb(0, 0, 0);
+  --white-content: white;
+}
+
+body {
+  background-color: var(--black-bg);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
